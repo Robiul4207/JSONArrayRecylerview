@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JSONArrayRecylerview</string>
+
+    <!-- Admob APP ID HERE -->
+    <string name="admob_APP_ID">ca-app-pub-3940256099942544~3347511713</string>
+    <!-- Admob Ad Unit IDS Here -->
+    <string name="admob_BANNER_UNIT_ID">ca-app-pub-3940256099942544/6300978111</string>
+</resources>
